@@ -41,13 +41,39 @@ I’m a Master's student in Artificial Intelligence at San Jose State University
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🌟 Featured Projects:
+## 🚀 Featured Projects:
 
-- **[Traffic Accident Risk Analysis](link-to-repo)**: Built a predictive model to assess traffic accident risks using real-world datasets and machine learning techniques. Integrated with AWS for model deployment.
-  
-- **[CycleGAN Image Transformation](link-to-repo)**: Leveraged CycleGAN to implement image-to-image translation, including generating photo-realistic image transformations in various applications.
+### 1. [Traffic Accident Risk Analysis](link-to-repo)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-- **[Full-Stack Web Application](link-to-repo)**: Developed a React-based frontend with a Node.js backend and deployed the application using AWS EC2 and S3 for scalability.
+- **Description**: A machine learning model to predict traffic accident risks based on historical data. Leveraged TensorFlow for model training and AWS for deployment and data management.
+- **Highlights**: Achieved an accuracy of 90% in predicting high-risk traffic zones and deployed a scalable solution using AWS Lambda and S3 for data storage.
+- **Tech Stack**: Python, TensorFlow, AWS, Pandas, Scikit-learn
+
+---
+
+### 2. [CycleGAN Image Transformation](link-to-repo)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+- **Description**: Implemented CycleGAN for image-to-image translation, such as transforming photographs into artwork. The model was deployed in a containerized environment for seamless scalability.
+- **Highlights**: Transformed images in real time with high accuracy and deployed the model using Docker containers for easy integration across different environments.
+- **Tech Stack**: Python, PyTorch, Docker, Jupyter
+
+---
+
+### 3. [Full-Stack Web Application](link-to-repo)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+- **Description**: Developed a full-stack web application using React for the frontend and Node.js for the backend, deployed on AWS EC2 for scalability.
+- **Highlights**: Implemented user authentication, database interactions, and RESTful APIs, hosting the frontend on S3 and using EC2 for backend services.
+- **Tech Stack**: React, Node.js, AWS, MongoDB, Express
+
 
 ---
 
