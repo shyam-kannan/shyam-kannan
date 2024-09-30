@@ -1,62 +1,45 @@
-# Welcome to my GitHub! 👋
+# Hi there 👋, I'm Shyam
 
 ## 👨‍💻 About Me:
-I'm Shyam, a graduate student in Artificial Intelligence at San Jose State University. My expertise lies in designing and deploying AI and machine learning models, cloud architecture with AWS, and developing full-stack applications. I’m passionate about leveraging technology to solve complex problems and build scalable solutions.
-
-- 🌐 [Portfolio](your-portfolio-url)
-- 💼 [LinkedIn](your-linkedin-url)
+I’m a Master's student in Artificial Intelligence at San Jose State University with a passion for building AI-driven solutions and scalable web applications. I work primarily with machine learning models, cloud infrastructure, and full-stack development. 
 
 ---
 
-## 🔧 Tech Stack:
-
-**Languages:**
-- Python
-- JavaScript (ES6+)
-- Java
-
-**Frameworks & Libraries:**
-- React.js
-- TensorFlow
-- PyTorch
-
-**Cloud & DevOps:**
-- Amazon Web Services (AWS)
-- Docker
-- Terraform
-
-**Database Technologies:**
-- MySQL
-- PostgreSQL
-
-**Version Control:**
-- Git
-- GitHub
+## 🌟 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white)](your-portfolio-url)
 
 ---
 
-## 🌟 Featured Projects:
+## 🛠 Preferred Tech Stack:
 
-- **[Traffic Accident Risk Analysis](link-to-repo)**: Built a predictive model to assess traffic accident risks using real-world datasets and machine learning techniques. Integrated with AWS for model deployment.
-  
-- **[CycleGAN Image Transformation](link-to-repo)**: Leveraged CycleGAN to implement image-to-image translation, including generating photo-realistic image transformations in various applications.
+### Frontend:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-- **[Full-Stack Web Application](link-to-repo)**: Developed a React-based frontend with a Node.js backend and deployed the application using AWS EC2 and S3 for scalability.
+### Backend:
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
----
+### Cloud & DevOps:
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
-## 📈 My GitHub Stats:
+### Databases:
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![Shyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-
----
-
-## 🤝 Let's Connect:
-
-If you’d like to collaborate or learn more about my work, feel free to reach out!
-
-- 💬 [Email Me](mailto:your-email-address)
-- 💼 [LinkedIn](your-linkedin-url)
+### Tools:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
