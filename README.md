@@ -41,6 +41,14 @@ I’m a Master's student in Artificial Intelligence at San Jose State University
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## 🌟 Featured Projects:
+
+- **[Traffic Accident Risk Analysis](link-to-repo)**: Built a predictive model to assess traffic accident risks using real-world datasets and machine learning techniques. Integrated with AWS for model deployment.
+  
+- **[CycleGAN Image Transformation](link-to-repo)**: Leveraged CycleGAN to implement image-to-image translation, including generating photo-realistic image transformations in various applications.
+
+- **[Full-Stack Web Application](link-to-repo)**: Developed a React-based frontend with a Node.js backend and deployed the application using AWS EC2 and S3 for scalability.
+
 ---
 
 <!--
