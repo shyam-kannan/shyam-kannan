@@ -43,36 +43,31 @@ I’m a Master's student in Artificial Intelligence at San Jose State University
 
 ## 🚀 Featured Projects:
 
-### 1. [Traffic Accident Risk Analysis](link-to-repo)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-- **Description**: A machine learning model to predict traffic accident risks based on historical data. Leveraged TensorFlow for model training and AWS for deployment and data management.
-- **Highlights**: Achieved an accuracy of 90% in predicting high-risk traffic zones and deployed a scalable solution using AWS Lambda and S3 for data storage.
-- **Tech Stack**: Python, TensorFlow, AWS, Pandas, Scikit-learn
-
----
-
-### 2. [CycleGAN Image Transformation](link-to-repo)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-- **Description**: Implemented CycleGAN for image-to-image translation, such as transforming photographs into artwork. The model was deployed in a containerized environment for seamless scalability.
-- **Highlights**: Transformed images in real time with high accuracy and deployed the model using Docker containers for easy integration across different environments.
-- **Tech Stack**: Python, PyTorch, Docker, Jupyter
-
----
-
-### 3. [Full-Stack Web Application](link-to-repo)
+### 🥗 [MacroFinder](https://github.com/your-username/macrofinder)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
 
-- **Description**: Developed a full-stack web application using React for the frontend and Node.js for the backend, deployed on AWS EC2 for scalability.
-- **Highlights**: Implemented user authentication, database interactions, and RESTful APIs, hosting the frontend on S3 and using EC2 for backend services.
-- **Tech Stack**: React, Node.js, AWS, MongoDB, Express
+- **Description**: A nutrition-focused restaurant menu web app that helps users find macro-friendly meals at popular chains.
+- **Highlights**: Scrapes live menu data, filters for macro goals (like high protein or low calorie), and offers an intuitive UI.
+- **Tech Stack**: React (TypeScript), Node.js (Express), Supabase, Puppeteer, Axios
+
+---
+
+### 🤖 [AI-Powered PDF Chatbot](https://github.com/your-username/pdf-chatbot-rag)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+![Gradio](https://img.shields.io/badge/Gradio-FF4B4B?style=for-the-badge&logo=gradio&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-009688?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-2E2E2E?style=for-the-badge)
+
+- **Description**: An interactive chatbot that lets users extract and query information from PDFs (including tables), ideal for research and business.
+- **Highlights**: Uses Retrieval-Augmented Generation (RAG) with a local LLaMA 2 model via Ollama, supports natural language Q&A, and handles structured tables.
+- **Tech Stack**: Python, Transformers (Hugging Face), Gradio, PyPDF, FAISS, LangChain, Ollama
+
+
 
 
 ---
