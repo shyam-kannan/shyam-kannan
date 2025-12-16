@@ -45,10 +45,10 @@ Software engineer building scalable cloud systems and intelligent applications. 
 
 ## Featured Projects
 
-**🚗 [LessGo](https://github.com/shyam-kannan/lessgo)** - Smart carpooling platform with RL-based matching  
+**🚗 [LessGo]([https://github.com/shyam-kannan/lessgo](https://github.com/shyam-kannan/SJSU_Ridesharing))** - Smart carpooling platform with RL-based matching  
 `React Native` `Node.js` `PostgreSQL` `AWS`
 
-**📈 [Hierarchical RL Portfolio Manager](https://github.com/shyam-kannan/portfolio-rl)** - 74.79% returns with 3-tier agent system  
+**📈 [Hierarchical RL Portfolio Manager]([https://github.com/shyam-kannan/portfolio-rl](https://github.com/aditya-chawla/portfolio-manager))** - 74.79% returns with 3-tier agent system  
 `PyTorch` `Python` `Sentiment Analysis`
 
 ---
