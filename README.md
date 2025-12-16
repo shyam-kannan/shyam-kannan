@@ -4,7 +4,42 @@
 
 Software engineer building scalable cloud systems and intelligent applications. Currently pursuing my Master's in AI at San Jose State University, specializing in reinforcement learning and production ML systems.
 
-**Tech Stack:** Python • React • AWS • PyTorch • Docker • Node.js • PostgreSQL
+---
+
+## Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+**Machine Learning**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -15,12 +50,6 @@ Software engineer building scalable cloud systems and intelligent applications. 
 
 **📈 [Hierarchical RL Portfolio Manager](https://github.com/shyam-kannan/portfolio-rl)** - 74.79% returns with 3-tier agent system  
 `PyTorch` `Python` `Sentiment Analysis`
-
-**🎮 [Deep RL Implementations](https://github.com/shyam-kannan/deep-rl)** - DQN, Actor-Critic, Policy Gradients  
-`PyTorch` `OpenAI Gym` `NumPy`
-
-**☁️ [AWS Infrastructure Automation](https://github.com/shyam-kannan/aws-terraform)** - IaC templates for scalable deployments  
-`Terraform` `AWS` `Docker` `CI/CD`
 
 ---
 
@@ -33,11 +62,14 @@ Software engineer building scalable cloud systems and intelligent applications. 
 
 ---
 
-## Connect
+## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/shyam-kannan-sde)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel)](https://shyam-kannan.netlify.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:shyam.kannan@sjsu.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyam-kannan-sde)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shyam-kannan.netlify.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shyam.kannan@sjsu.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shyam-kannan)
+
+---
 
 <p align="center">
   <i>Open to software engineering and cloud architecture opportunities</i>
