@@ -2,8 +2,8 @@
 
 ## 👋 About Me
 
-Software Engineer building **scalable cloud systems and ML-driven applications**.  
-Currently pursuing my **M.S. in Artificial Intelligence at San Jose State University**, with a focus on **reinforcement learning and production ML systems**.
+Software Engineer building **scalable cloud systems and ML-driven applications.  
+Currently pursuing my **M.S. in Artificial Intelligence at San Jose State University**, with a focus on **reinforcement learning and production ML systems.
 ---
 
 ## 🚀 What I'm Up To
