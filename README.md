@@ -2,7 +2,10 @@
 
 ## About Me
 
-Software engineer building scalable cloud systems and intelligent applications. Currently pursuing my Master's in AI at San Jose State University, specializing in reinforcement learning and production ML systems.
+Software Engineer focused on **cloud systems and machine learning–driven applications**.  
+Currently pursuing my **M.S. in Artificial Intelligence at San Jose State University**, with a focus on **reinforcement learning and production ML systems**.
+
+I enjoy building end-to-end systems that span **ML, backend services, and cloud infrastructure**.
 
 ---
 
@@ -10,18 +13,15 @@ Software engineer building scalable cloud systems and intelligent applications. 
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Backend**  
+**Backend & APIs**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -29,7 +29,6 @@ Software engineer building scalable cloud systems and intelligent applications. 
 **Cloud & DevOps**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 **Machine Learning**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -39,25 +38,26 @@ Software engineer building scalable cloud systems and intelligent applications. 
 **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ## Featured Projects
 
-**🚗 [LessGo]([https://github.com/shyam-kannan/lessgo](https://github.com/shyam-kannan/SJSU_Ridesharing))** - Smart carpooling platform with RL-based matching  
+**🚗 [LessGo](https://github.com/shyam-kannan/SJSU_Ridesharing)**  
+Smart university carpooling platform with ML-based rider–driver matching  
 `React Native` `Node.js` `PostgreSQL` `AWS`
 
-**📈 [Hierarchical RL Portfolio Manager]([https://github.com/shyam-kannan/portfolio-rl](https://github.com/aditya-chawla/portfolio-manager))** - 74.79% returns with 3-tier agent system  
-`PyTorch` `Python` `Sentiment Analysis`
+**📈 [Hierarchical RL Portfolio Manager](https://github.com/aditya-chawla/portfolio-manager)**  
+3-tier reinforcement learning system achieving **74.79% annualized returns**  
+`PyTorch` `Reinforcement Learning` `Sentiment Analysis`
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shyam-kannan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-kannan&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=shyam-kannan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-kannan&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -67,10 +67,8 @@ Software engineer building scalable cloud systems and intelligent applications. 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyam-kannan-sde)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shyam-kannan.netlify.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shyam.kannan@sjsu.edu)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shyam-kannan)
-
----
 
 <p align="center">
-  <i>Open to software engineering and cloud architecture opportunities</i>
+  <i>Open to software engineering, machine learning, and cloud-focused roles</i>
 </p>
+
