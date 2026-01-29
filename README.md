@@ -12,7 +12,7 @@ Software Engineer building cloud-scale systems and applied machine learning | M.
 - ☁️ Designing **cloud-native backends** on AWS
 - 🧠 Exploring **ML deployment, inference optimization, and MLOps**
 
-👉 Portfolio: **https://shyam-kannan.vercel.app/**
+👉 Portfolio: **https://shyamkannan.vercel.app/**
 
 ---
 
@@ -35,7 +35,7 @@ Software Engineer building cloud-scale systems and applied machine learning | M.
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyam-kannan-sde)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shyam-kannan.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shyamkannan.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shyam.kannan@sjsu.edu)
 
 <p align="center">
