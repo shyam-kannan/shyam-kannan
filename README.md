@@ -12,7 +12,7 @@ Software Engineer building cloud-scale systems and applied machine learning | M.
 - ☁️ Designing **cloud-native backends** on AWS
 - 🧠 Exploring **ML deployment, inference optimization, and MLOps**
 
-👉 Portfolio: **https://shyamkannan.vercel.app/**
+👉 Portfolio: 
 
 ---
 
