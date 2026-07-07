@@ -88,7 +88,7 @@ My work spans **full-stack development**, **ML/CV pipelines in production**, and
 ## Featured Projects
 
 <details>
-<summary><b>🚗 LessGo &mdash; Full-Stack iOS Carpooling Platform</b></summary>
+<summary><b> LessGo &mdash; Full-Stack iOS Carpooling Platform</b></summary>
 <br/>
 
 SJSU capstone project. Native Swift/SwiftUI app with 40+ screens backed by 8 Node.js microservices. Matching algorithm combines two research papers (He et al. 2014, Tang et al. 2020) in a three-stage pipeline with a Python FastAPI embedding microservice trained on NYC taxi data.
@@ -105,7 +105,7 @@ SJSU capstone project. Native Swift/SwiftUI app with 40+ screens backed by 8 Nod
 </details>
 
 <details>
-<summary><b>📈 StockPulse &mdash; Real-Time Stock Research Dashboard</b></summary>
+<summary><b> StockPulse &mdash; Real-Time Stock Research Dashboard</b></summary>
 <br/>
 
 React 19 + Vite frontend, FastAPI + SQLite backend with a scheduled scraper pulling from Yahoo Finance, RSS feeds, ApeWisdom, and StockTwits every 2 hours. Uses the Claude API to generate daily market briefings, per-ticker analysis, and AI-built diversified portfolios.
@@ -122,7 +122,7 @@ React 19 + Vite frontend, FastAPI + SQLite backend with a scheduled scraper pull
 </details>
 
 <details>
-<summary><b>🤖 Research-Agent-Orchestration &mdash; Multi-Agent Research Platform</b></summary>
+<summary><b> Research-Agent-Orchestration &mdash; Multi-Agent Research Platform</b></summary>
 <br/>
 
 LangGraph Supervisor decomposes research requests and routes them to specialized Research/Extraction/Analysis/Writing agents. A Haiku-based Reviewer scores output quality; contradiction detection triggers human escalation via LangGraph interrupt/resume. ChromaDB provides long-term memory across tasks.
@@ -139,7 +139,7 @@ LangGraph Supervisor decomposes research requests and routes them to specialized
 </details>
 
 <details>
-<summary><b>🔀 Prompt-Versioning-Platform &mdash; "Git for Prompts"</b></summary>
+<summary><b> Prompt-Versioning-Platform &mdash; "Git for Prompts"</b></summary>
 <br/>
 
 Version control and A/B testing platform for LLM prompts. Content-hash deduplication, production/staging labels, unified diffs, and non-destructive rollback. Statistical A/B testing auto-selects between Welch's t-test and Mann-Whitney U based on normality, with Cohen's d effect size and auto-promotion after a 24-hour significance hold.
@@ -156,7 +156,7 @@ Version control and A/B testing platform for LLM prompts. Content-hash deduplica
 </details>
 
 <details>
-<summary><b>🌐 Multilingual GenAI Evaluation &mdash; AI Moderation Gateway</b></summary>
+<summary><b> Multilingual GenAI Evaluation &mdash; AI Moderation Gateway</b></summary>
 <br/>
 
 Multilingual AI evaluation and moderation gateway across en-US, es-MX, ar-SA, and ja-JP. Scores every output on 4 axes: LLM-judged quality, hallucination detection, fail-closed moderation, and locale-specific validation. A CI regression gate blocks prompt versions that score worse than the production baseline.
@@ -173,7 +173,7 @@ Multilingual AI evaluation and moderation gateway across en-US, es-MX, ar-SA, an
 </details>
 
 <details>
-<summary><b>📄 RepoFriend (Codebase-Documenter) &mdash; AI-Generated Repo Documentation</b></summary>
+<summary><b> RepoFriend (Codebase-Documenter) &mdash; AI-Generated Repo Documentation</b></summary>
 <br/>
 
 Turns any GitHub repo into AI-generated documentation. Next.js 14 frontend with GitHub OAuth, FastAPI + LangGraph backend workflow (clone &rarr; scan &rarr; analyze &rarr; generate), with optional AI-inserted inline code comments auto-submitted as a pull request.
@@ -190,7 +190,7 @@ Turns any GitHub repo into AI-generated documentation. Next.js 14 frontend with 
 </details>
 
 <details>
-<summary><b>🧬 BioMed-LLM &mdash; Biomedical RAG System</b></summary>
+<summary><b> BioMed-LLM &mdash; Biomedical RAG System</b></summary>
 <br/>
 
 Combines BioGPT with live NCBI Entrez API retrieval for biomedical question answering, addressing static-LLM knowledge gaps with real-time literature retrieval.
@@ -207,7 +207,7 @@ Combines BioGPT with live NCBI Entrez API retrieval for biomedical question answ
 </details>
 
 <details>
-<summary><b>🧾 Finance Tracker &mdash; AI Receipt Intelligence</b></summary>
+<summary><b> Finance Tracker &mdash; AI Receipt Intelligence</b></summary>
 <br/>
 
 Upload a receipt image and a Gemini LLM extracts vendor, total, date, and category automatically, rejecting non-receipt images. Includes a budgets/transactions dashboard with AI-generated spending insights.
