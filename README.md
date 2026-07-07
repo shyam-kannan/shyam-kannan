@@ -35,13 +35,7 @@ I'm a Master's in Artificial Intelligence graduate from **San Jose State Univers
 
 My work spans **full-stack development**, **ML/CV pipelines in production**, and **agentic AI systems**, backed by hands-on internship experience deploying real inference services on AWS.
 
-```yaml
-role: New Grad Software / ML / AI Engineer
-focus: [Full-Stack Engineering, Applied AI, Multi-Agent Systems, ML Infrastructure]
-mindset: Ship end-to-end, measure everything, no fabricated metrics
-```
-
-**Open To:** Software Engineer &middot; ML Engineer &middot; AI Engineer &middot; Backend Engineer &middot; Applied AI Engineer (New Grad / Entry-Level, US-based)
+**Open To:** Software Engineer &middot; ML Engineer &middot; AI Engineer &middot; Backend Engineer &middot; Applied AI Engineer
 
 ---
 
