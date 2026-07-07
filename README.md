@@ -231,24 +231,6 @@ Upload a receipt image and a Gemini LLM extracts vendor, total, date, and catego
 
 ---
 
-## Experience
-
-**AI Engineer Intern &middot; Kashmir World Foundation**
-*Jun 2025 &ndash; Aug 2025*
-
-Built and deployed a YOLOv8 + custom ResNet two-stage detector on 10K+ drone images, reaching 90%+ detection accuracy and deploying to AWS Lambda for production inference. Drove a 65% reduction in scoring/response time via CloudWatch profiling, TensorRT INT8 quantization, and weight pruning. Closed a cross-region distribution gap through a targeted augmentation strategy, lifting out-of-sample accuracy 20%+ across holdout regions.
-
-`Python` `PyTorch` `YOLOv8` `AWS Lambda` `TensorRT` `CloudWatch` `CI/CD`
-
-**Software Engineer &middot; Ecological**
-*Jun 2024 &ndash; Aug 2024 &middot; Champaign, IL (Remote)*
-
-Built a 5-page responsive dashboard in React + Ant Design for small-business carbon footprint tracking, with 15 GraphQL queries on AWS powering premium/basic plan customization. Implemented a 4-step sign-up flow in React + TypeScript.
-
-`React` `TypeScript` `GraphQL` `Ant Design` `AWS`
-
----
-
 ## Achievements
 
 <div align="center">
