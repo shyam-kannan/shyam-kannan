@@ -31,7 +31,7 @@
 
 ## About Me
 
-I'm a Master's in Artificial Intelligence graduate from **San Jose State University** (May 2026), with a B.S. in Computer Science from **Arizona State University**. I build production-grade systems across the full stack &mdash; from AWS-deployed computer vision pipelines to multi-agent LLM orchestration platforms &mdash; with a product engineering mindset that prioritizes shipping working systems over isolated proofs of concept.
+I'm a Master's in Artificial Intelligence graduate from **San Jose State University** (May 2026), with a B.S. in Computer Science from **Arizona State University**. I build production-grade systems at my job across the full stack &mdash; from AWS-deployed computer vision pipelines to multi-agent LLM orchestration platforms &mdash; with a product engineering mindset that prioritizes shipping working systems over isolated proofs of concept.
 
 My work spans **full-stack development**, **ML/CV pipelines in production**, and **agentic AI systems**, backed by hands-on internship experience deploying real inference services on AWS.
 
@@ -315,7 +315,6 @@ Open To:    [Software Engineer, ML Engineer, AI Engineer, Backend Engineer — U
 
 <div align="center">
 
-*"Ship end-to-end. Measure everything. Never fabricate a metric."*
 
 ![Footer](https://capsule-render.com/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 
