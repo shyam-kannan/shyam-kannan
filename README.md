@@ -268,16 +268,6 @@ Upload a receipt image and a Gemini LLM extracts vendor, total, date, and catego
 
 ---
 
-## Current Focus
-
-```yaml
-Learning:   [Agentic AI system design, LLMOps at scale]
-Building:   [Multilingual GenAI Evaluation Gateway, portfolio expansion]
-Exploring:  [Applied AI Engineer & ML Engineer new-grad roles]
-Open To:    [Software Engineer, ML Engineer, AI Engineer, Backend Engineer — US, New Grad]
-```
-
----
 
 ## Connect
 
