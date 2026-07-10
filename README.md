@@ -94,7 +94,7 @@ mindset: Ship end-to-end, measure everything, no fabricated metrics
 ## Featured Projects
 
 <details>
-<summary><b>🚗 LessGo &mdash; Full-Stack iOS Carpooling Platform</b></summary>
+<summary><b> LessGo &mdash; Full-Stack iOS Carpooling Platform</b></summary>
 <br/>
 
 SJSU capstone project. Native Swift/SwiftUI app with 40+ screens backed by 8 Node.js microservices. Matching algorithm combines two research papers (He et al. 2014, Tang et al. 2020) in a three-stage pipeline with a Python FastAPI embedding microservice trained on NYC taxi data.
@@ -111,7 +111,7 @@ SJSU capstone project. Native Swift/SwiftUI app with 40+ screens backed by 8 Nod
 </details>
 
 <details>
-<summary><b>📈 StockPulse &mdash; Real-Time Stock Research Dashboard</b></summary>
+<summary><b> StockPulse &mdash; Real-Time Stock Research Dashboard</b></summary>
 <br/>
 
 React 19 + Vite frontend, FastAPI + SQLite backend with a scheduled scraper pulling from Yahoo Finance, RSS feeds, ApeWisdom, and StockTwits every 2 hours. Uses the Claude API to generate daily market briefings, per-ticker analysis, and AI-built diversified portfolios.
@@ -128,7 +128,7 @@ React 19 + Vite frontend, FastAPI + SQLite backend with a scheduled scraper pull
 </details>
 
 <details>
-<summary><b>🤖 Research-Agent-Orchestration &mdash; Multi-Agent Research Platform</b></summary>
+<summary><b> Research-Agent-Orchestration &mdash; Multi-Agent Research Platform</b></summary>
 <br/>
 
 LangGraph Supervisor decomposes research requests and routes them to specialized Research/Extraction/Analysis/Writing agents. A Haiku-based Reviewer scores output quality; contradiction detection triggers human escalation via LangGraph interrupt/resume. ChromaDB provides long-term memory across tasks.
@@ -145,7 +145,7 @@ LangGraph Supervisor decomposes research requests and routes them to specialized
 </details>
 
 <details>
-<summary><b>🔀 Prompt-Versioning-Platform &mdash; "Git for Prompts"</b></summary>
+<summary><b> Prompt-Versioning-Platform &mdash; "Git for Prompts"</b></summary>
 <br/>
 
 Version control and A/B testing platform for LLM prompts. Content-hash deduplication, production/staging labels, unified diffs, and non-destructive rollback. Statistical A/B testing auto-selects between Welch's t-test and Mann-Whitney U based on normality, with Cohen's d effect size and auto-promotion after a 24-hour significance hold.
@@ -162,7 +162,7 @@ Version control and A/B testing platform for LLM prompts. Content-hash deduplica
 </details>
 
 <details>
-<summary><b>🌐 Multilingual GenAI Evaluation &mdash; AI Moderation Gateway</b></summary>
+<summary><b> Multilingual GenAI Evaluation &mdash; AI Moderation Gateway</b></summary>
 <br/>
 
 Multilingual AI evaluation and moderation gateway across en-US, es-MX, ar-SA, and ja-JP. Scores every output on 4 axes: LLM-judged quality, hallucination detection, fail-closed moderation, and locale-specific validation. A CI regression gate blocks prompt versions that score worse than the production baseline.
@@ -196,7 +196,7 @@ Turns any GitHub repo into AI-generated documentation. Next.js 14 frontend with 
 </details>
 
 <details>
-<summary><b>🧬 BioMed-LLM &mdash; Biomedical RAG System</b></summary>
+<summary><b> BioMed-LLM &mdash; Biomedical RAG System</b></summary>
 <br/>
 
 Combines BioGPT with live NCBI Entrez API retrieval for biomedical question answering, addressing static-LLM knowledge gaps with real-time literature retrieval.
@@ -213,7 +213,7 @@ Combines BioGPT with live NCBI Entrez API retrieval for biomedical question answ
 </details>
 
 <details>
-<summary><b>🧾 Finance Tracker &mdash; AI Receipt Intelligence</b></summary>
+<summary><b> Finance Tracker &mdash; AI Receipt Intelligence</b></summary>
 <br/>
 
 Upload a receipt image and a Gemini LLM extracts vendor, total, date, and category automatically, rejecting non-receipt images. Includes a budgets/transactions dashboard with AI-generated spending insights.
@@ -228,24 +228,6 @@ Upload a receipt image and a Gemini LLM extracts vendor, total, date, and catego
 | **Repository** | [github.com/shyam-kannan/finance_tracker](https://github.com/shyam-kannan/finance_tracker) |
 
 </details>
-
----
-
-## Experience
-
-**AI Engineer Intern &middot; Kashmir World Foundation**
-*Jun 2025 &ndash; Aug 2025*
-
-Built and deployed a YOLOv8 + custom ResNet two-stage detector on 10K+ drone images, reaching 90%+ detection accuracy and deploying to AWS Lambda for production inference. Drove a 65% reduction in scoring/response time via CloudWatch profiling, TensorRT INT8 quantization, and weight pruning. Closed a cross-region distribution gap through a targeted augmentation strategy, lifting out-of-sample accuracy 20%+ across holdout regions.
-
-`Python` `PyTorch` `YOLOv8` `AWS Lambda` `TensorRT` `CloudWatch` `CI/CD`
-
-**Software Engineer &middot; Ecological**
-*Jun 2024 &ndash; Aug 2024 &middot; Champaign, IL (Remote)*
-
-Built a 5-page responsive dashboard in React + Ant Design for small-business carbon footprint tracking, with 15 GraphQL queries on AWS powering premium/basic plan customization. Implemented a 4-step sign-up flow in React + TypeScript.
-
-`React` `TypeScript` `GraphQL` `Ant Design` `AWS`
 
 ---
 
@@ -305,17 +287,6 @@ Built a 5-page responsive dashboard in React + Ant Design for small-business car
 
 ---
 
-## Current Focus
-
-```yaml
-Learning:   [Agentic AI system design, LLMOps at scale]
-Building:   [Multilingual GenAI Evaluation Gateway, portfolio expansion]
-Exploring:  [Applied AI Engineer & ML Engineer roles]
-Open To:    [Software Engineer, ML Engineer, AI Engineer, Backend Engineer — US-based]
-```
-
----
-
 ## Connect
 
 <div align="center">
@@ -330,8 +301,6 @@ Open To:    [Software Engineer, ML Engineer, AI Engineer, Backend Engineer — U
 ---
 
 <div align="center">
-
-*"Ship end-to-end. Measure everything. Never fabricate a metric."*
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 
