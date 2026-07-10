@@ -172,7 +172,7 @@ Multilingual AI evaluation and moderation gateway across en-US, es-MX, ar-SA, an
 </details>
 
 <details>
-<summary><b>📄 RepoFriend (Codebase-Documenter) &mdash; AI-Generated Repo Documentation</b></summary>
+<summary><b> RepoFriend (Codebase-Documenter) &mdash; AI-Generated Repo Documentation</b></summary>
 <br/>
 
 Turns any GitHub repo into AI-generated documentation. Next.js 14 frontend with GitHub OAuth, FastAPI + LangGraph backend workflow (clone &rarr; scan &rarr; analyze &rarr; generate), with optional AI-inserted inline code comments auto-submitted as a pull request.
