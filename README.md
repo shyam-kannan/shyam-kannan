@@ -175,14 +175,14 @@ Show Image
 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats-shyam.vercel.app/api?username=shyam-kannan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats-shyam.vercel.app/api?username=shyam-kannan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9&v=2" width="49%" />
 <img src="https://streak-stats.demolab.com/?user=shyam-kannan&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
-<img src="https://github-readme-stats-shyam.vercel.app/api/top-langs/?username=shyam-kannan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats-shyam.vercel.app/api/top-langs/?username=shyam-kannan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9&v=2" width="49%" />
 </div>
 Trophies
 
 <div align="center">
-<img src="https://github-trophy-shyam.vercel.app/?username=shyam-kannan&theme=algolia&no-frame=true&margin-w=10&row=1" />
+<img src="https://github-trophy-shyam.vercel.app/?username=shyam-kannan&theme=algolia&no-frame=true&margin-w=10&row=1&v=2" />
 </div>
 Contribution Activity
 
