@@ -1,9 +1,9 @@
 <div align="center">
 
-![Header](https://capsule-render.com/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Shyam%20Kannan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%7C%20ML%20%7C%20Applied%20AI%20Engineer&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Shyam%20Kannan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%7C%20ML%20%7C%20Applied%20AI%20Engineer&descAlignY=55&descSize=18)
 
 <a href="https://github.com/shyam-kannan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=New+Grad+%7C+MS+Artificial+Intelligence+%40+SJSU;Building+Full-Stack+%2B+ML+%2B+Agentic+AI+Systems;Open+to+SWE+%2F+ML+%2F+AI+Engineer+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=MS+Artificial+Intelligence+%40+SJSU;Building+Full-Stack+%2B+ML+%2B+Agentic+AI+Systems;Open+to+SWE+%2F+ML+%2F+AI+Engineer+Roles" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -31,11 +31,17 @@
 
 ## About Me
 
-I'm a Master's in Artificial Intelligence graduate from **San Jose State University** (May 2026), with a B.S. in Computer Science from **Arizona State University**. I build production-grade systems at my job across the full stack &mdash; from AWS-deployed computer vision pipelines to multi-agent LLM orchestration platforms &mdash; with a product engineering mindset that prioritizes shipping working systems over isolated proofs of concept.
+I'm a Master's in Artificial Intelligence graduate from **San Jose State University** (May 2026), with a B.S. in Computer Science from **Arizona State University**. I build production-grade systems across the full stack &mdash; from AWS-deployed computer vision pipelines to multi-agent LLM orchestration platforms &mdash; with a product engineering mindset that prioritizes shipping working systems over isolated proofs of concept.
 
 My work spans **full-stack development**, **ML/CV pipelines in production**, and **agentic AI systems**, backed by hands-on internship experience deploying real inference services on AWS.
 
-**Open To:** Software Engineer &middot; ML Engineer &middot; AI Engineer &middot; Backend Engineer &middot; Applied AI Engineer
+```yaml
+role: Software / ML / AI Engineer
+focus: [Full-Stack Engineering, Applied AI, Multi-Agent Systems, ML Infrastructure]
+mindset: Ship end-to-end, measure everything, no fabricated metrics
+```
+
+**Open To:** Software Engineer &middot; ML Engineer &middot; AI Engineer &middot; Backend Engineer &middot; Applied AI Engineer (US-based)
 
 ---
 
@@ -88,7 +94,7 @@ My work spans **full-stack development**, **ML/CV pipelines in production**, and
 ## Featured Projects
 
 <details>
-<summary><b> LessGo &mdash; Full-Stack iOS Carpooling Platform</b></summary>
+<summary><b>🚗 LessGo &mdash; Full-Stack iOS Carpooling Platform</b></summary>
 <br/>
 
 SJSU capstone project. Native Swift/SwiftUI app with 40+ screens backed by 8 Node.js microservices. Matching algorithm combines two research papers (He et al. 2014, Tang et al. 2020) in a three-stage pipeline with a Python FastAPI embedding microservice trained on NYC taxi data.
@@ -105,7 +111,7 @@ SJSU capstone project. Native Swift/SwiftUI app with 40+ screens backed by 8 Nod
 </details>
 
 <details>
-<summary><b> StockPulse &mdash; Real-Time Stock Research Dashboard</b></summary>
+<summary><b>📈 StockPulse &mdash; Real-Time Stock Research Dashboard</b></summary>
 <br/>
 
 React 19 + Vite frontend, FastAPI + SQLite backend with a scheduled scraper pulling from Yahoo Finance, RSS feeds, ApeWisdom, and StockTwits every 2 hours. Uses the Claude API to generate daily market briefings, per-ticker analysis, and AI-built diversified portfolios.
@@ -122,7 +128,7 @@ React 19 + Vite frontend, FastAPI + SQLite backend with a scheduled scraper pull
 </details>
 
 <details>
-<summary><b> Research-Agent-Orchestration &mdash; Multi-Agent Research Platform</b></summary>
+<summary><b>🤖 Research-Agent-Orchestration &mdash; Multi-Agent Research Platform</b></summary>
 <br/>
 
 LangGraph Supervisor decomposes research requests and routes them to specialized Research/Extraction/Analysis/Writing agents. A Haiku-based Reviewer scores output quality; contradiction detection triggers human escalation via LangGraph interrupt/resume. ChromaDB provides long-term memory across tasks.
@@ -139,7 +145,7 @@ LangGraph Supervisor decomposes research requests and routes them to specialized
 </details>
 
 <details>
-<summary><b> Prompt-Versioning-Platform &mdash; "Git for Prompts"</b></summary>
+<summary><b>🔀 Prompt-Versioning-Platform &mdash; "Git for Prompts"</b></summary>
 <br/>
 
 Version control and A/B testing platform for LLM prompts. Content-hash deduplication, production/staging labels, unified diffs, and non-destructive rollback. Statistical A/B testing auto-selects between Welch's t-test and Mann-Whitney U based on normality, with Cohen's d effect size and auto-promotion after a 24-hour significance hold.
@@ -156,7 +162,7 @@ Version control and A/B testing platform for LLM prompts. Content-hash deduplica
 </details>
 
 <details>
-<summary><b> Multilingual GenAI Evaluation &mdash; AI Moderation Gateway</b></summary>
+<summary><b>🌐 Multilingual GenAI Evaluation &mdash; AI Moderation Gateway</b></summary>
 <br/>
 
 Multilingual AI evaluation and moderation gateway across en-US, es-MX, ar-SA, and ja-JP. Scores every output on 4 axes: LLM-judged quality, hallucination detection, fail-closed moderation, and locale-specific validation. A CI regression gate blocks prompt versions that score worse than the production baseline.
@@ -173,7 +179,7 @@ Multilingual AI evaluation and moderation gateway across en-US, es-MX, ar-SA, an
 </details>
 
 <details>
-<summary><b> RepoFriend (Codebase-Documenter) &mdash; AI-Generated Repo Documentation</b></summary>
+<summary><b>📄 RepoFriend (Codebase-Documenter) &mdash; AI-Generated Repo Documentation</b></summary>
 <br/>
 
 Turns any GitHub repo into AI-generated documentation. Next.js 14 frontend with GitHub OAuth, FastAPI + LangGraph backend workflow (clone &rarr; scan &rarr; analyze &rarr; generate), with optional AI-inserted inline code comments auto-submitted as a pull request.
@@ -190,7 +196,7 @@ Turns any GitHub repo into AI-generated documentation. Next.js 14 frontend with 
 </details>
 
 <details>
-<summary><b> BioMed-LLM &mdash; Biomedical RAG System</b></summary>
+<summary><b>🧬 BioMed-LLM &mdash; Biomedical RAG System</b></summary>
 <br/>
 
 Combines BioGPT with live NCBI Entrez API retrieval for biomedical question answering, addressing static-LLM knowledge gaps with real-time literature retrieval.
@@ -207,7 +213,7 @@ Combines BioGPT with live NCBI Entrez API retrieval for biomedical question answ
 </details>
 
 <details>
-<summary><b> Finance Tracker &mdash; AI Receipt Intelligence</b></summary>
+<summary><b>🧾 Finance Tracker &mdash; AI Receipt Intelligence</b></summary>
 <br/>
 
 Upload a receipt image and a Gemini LLM extracts vendor, total, date, and category automatically, rejecting non-receipt images. Includes a budgets/transactions dashboard with AI-generated spending insights.
@@ -225,6 +231,39 @@ Upload a receipt image and a Gemini LLM extracts vendor, total, date, and catego
 
 ---
 
+## Experience
+
+**AI Engineer Intern &middot; Kashmir World Foundation**
+*Jun 2025 &ndash; Aug 2025*
+
+Built and deployed a YOLOv8 + custom ResNet two-stage detector on 10K+ drone images, reaching 90%+ detection accuracy and deploying to AWS Lambda for production inference. Drove a 65% reduction in scoring/response time via CloudWatch profiling, TensorRT INT8 quantization, and weight pruning. Closed a cross-region distribution gap through a targeted augmentation strategy, lifting out-of-sample accuracy 20%+ across holdout regions.
+
+`Python` `PyTorch` `YOLOv8` `AWS Lambda` `TensorRT` `CloudWatch` `CI/CD`
+
+**Software Engineer &middot; Ecological**
+*Jun 2024 &ndash; Aug 2024 &middot; Champaign, IL (Remote)*
+
+Built a 5-page responsive dashboard in React + Ant Design for small-business carbon footprint tracking, with 15 GraphQL queries on AWS powering premium/basic plan customization. Implemented a 4-step sign-up flow in React + TypeScript.
+
+`React` `TypeScript` `GraphQL` `Ant Design` `AWS`
+
+---
+
+## Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| MS in Artificial Intelligence | San Jose State University, May 2026 |
+| 8 Shipped Production Projects | Full-stack, ML, and multi-agent systems, each with real deployment |
+| AWS Certified Cloud Practitioner | 2023 |
+| Deep Learning Specialization | Coursera, completed |
+
+</div>
+
+---
+
 ## Certifications
 
 **AWS**
@@ -239,10 +278,10 @@ Upload a receipt image and a Gemini LLM extracts vendor, total, date, and catego
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shyam-kannan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shyam-kannan&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=shyam-kannan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9&cache_seconds=1800" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=shyam-kannan&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-kannan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-kannan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9&cache_seconds=1800" width="49%" />
 
 </div>
 
@@ -264,10 +303,18 @@ Upload a receipt image and a Gemini LLM extracts vendor, total, date, and catego
 <img src="https://raw.githubusercontent.com/shyam-kannan/shyam-kannan/output/github-contribution-grid-snake-dark.svg" width="90%" />
 </div>
 
-> Snake animation requires a one-time GitHub Action set up in this repo (`platane/snk`) &mdash; see note below.
-
 ---
 
+## Current Focus
+
+```yaml
+Learning:   [Agentic AI system design, LLMOps at scale]
+Building:   [Multilingual GenAI Evaluation Gateway, portfolio expansion]
+Exploring:  [Applied AI Engineer & ML Engineer roles]
+Open To:    [Software Engineer, ML Engineer, AI Engineer, Backend Engineer — US-based]
+```
+
+---
 
 ## Connect
 
@@ -284,7 +331,8 @@ Upload a receipt image and a Gemini LLM extracts vendor, total, date, and catego
 
 <div align="center">
 
+*"Ship end-to-end. Measure everything. Never fabricate a metric."*
 
-![Footer](https://capsule-render.com/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 
 </div>
