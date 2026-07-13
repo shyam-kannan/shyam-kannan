@@ -65,19 +65,6 @@ Most of what I do falls into three buckets: full stack development, ML and compu
 
 ---
 
-## AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| Computer Vision | Advanced | YOLOv8 + ResNet two-stage detection, TensorRT INT8 quantization, production inference on AWS Lambda |
-| Multi-Agent Orchestration | Advanced | LangGraph Supervisor patterns, human-in-the-loop interrupt/resume, ChromaDB long-term memory |
-| LLM Evaluation & Safety | Advanced | Fail-closed moderation gateways, hallucination detection, CI regression gating across locales |
-| Prompt Engineering | Advanced | Prompt version control, statistical A/B testing (Welch's t-test / Mann-Whitney U), auto-promotion pipelines |
-| Retrieval-Augmented Generation | Intermediate | BioGPT + live literature retrieval for domain-specific QA |
-| Reinforcement Learning | Graduate Coursework | SJSU MS AI curriculum |
-
----
-
 ## Featured Projects
 
 <details>
