@@ -19,12 +19,6 @@
 [![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shyamkannan2000@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shyam-kannan)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=shyam-kannan&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/shyam-kannan?style=for-the-badge&color=7c3aed&labelColor=1e1b2e)
-![Stars](https://img.shields.io/github/stars/shyam-kannan?style=for-the-badge&color=a78bfa&labelColor=1e1b2e)
-
 </div>
 
 ---
