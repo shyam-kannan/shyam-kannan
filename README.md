@@ -229,12 +229,6 @@ Upload a receipt image and a Gemini LLM extracts vendor, total, date, and catego
 <img src="https://github-trophy-shyam.vercel.app/?username=shyam-kannan&theme=algolia&no-frame=true&margin-w=10&row=1&v=2" />
 </div>
 
-### Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shyam-kannan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=ffffff" width="90%" />
-</div>
-
 ### Contribution Snake
 
 <div align="center">
