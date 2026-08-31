@@ -205,28 +205,10 @@ Upload a receipt image and a Gemini LLM extracts vendor, total, date, and catego
 
 ---
 
-## Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| MS in Artificial Intelligence | San Jose State University, May 2026 |
-| 8 Shipped Production Projects | Full-stack, ML, and multi-agent systems, each with real deployment |
-| AWS Certified Cloud Practitioner | 2023 |
-| Deep Learning Specialization | Coursera, completed |
-
-</div>
-
----
-
 ## Certifications
 
 **AWS**
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**Coursera**
-![Deep Learning Specialization](https://img.shields.io/badge/Deep%20Learning-Specialization-8B5CF6?style=for-the-badge&logo=coursera&logoColor=white)
 
 ---
 
